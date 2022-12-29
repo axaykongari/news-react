@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Third Party APIS
 
-We have used NEW API for getting news you can generate your api key over here and change api key from config.js file: [https://newsapi.org/]
+We have used NEW API for getting news you can generate your api key over here and change api key from config.js file: [Link Here](https://newsapi.org/)
 
 
 ## Available Scripts
