@@ -3,10 +3,10 @@ import CategoryList from "./CategoryList";
 import Loader from "./Loader";
 import NewsItem from "./NewsItem";
 import Toast from "./Toast";
+import newsApiKey from "../config";
 
 export class NewsList extends Component {
-  apiKey = "a8ec54a283c1428cb7fdbf2221d844eb"; //msp
-  //apiKey = '388c3f642c454b5b9d28bfe902df706a';//pers
+  apiKey = newsApiKey;
   article = [
     {
       source: {
